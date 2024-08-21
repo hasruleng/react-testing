@@ -1,0 +1,12 @@
+{
+    "name": "audit2022-react-testing-library-setting-up-react-testing-library2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "author": "",
+    "license": "ISC",
+    "scripts": {
+      "test": "react-scripts test"
+    }
+  }
+  
