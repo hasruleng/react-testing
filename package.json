@@ -6,7 +6,12 @@
     "author": "",
     "license": "ISC",
     "scripts": {
-      "test": "react-scripts test"
+        "test": "react-scripts test"
+    },
+    "devDependencies": {
+        "@testing-library/react": "^16.0.0"
+    },
+    "dependencies": {
+        "react-scripts": "^5.0.1"
     }
-  }
-  
+}
